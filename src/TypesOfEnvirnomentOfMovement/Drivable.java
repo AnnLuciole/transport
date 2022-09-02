@@ -1,8 +1,7 @@
 package TypesOfEnvirnomentOfMovement;
 
-public interface Drivable extends TypesOfEnvirnomentOfMovement {
+public interface Drivable {
 
-    @Override
     default void getTypeOfEnvirnomentOfMovement() {
         System.out.println("Транспорт передвигается по суше.");
     }

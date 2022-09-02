@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ce3bdb-005d-4810-b207-c7fa2c294734" name="Changes" comment="Added types of envirnoment of movement.">
-      <change afterPath="$PROJECT_DIR$/src/TypesOfPrivacy/Private.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypesOfPrivacy/Public.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypesOfPrivacy/TypesOfPrivacy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d1ce3bdb-005d-4810-b207-c7fa2c294734" name="Changes" comment="Added types of privacy.">
+      <change afterPath="$PROJECT_DIR$/src/TypesOfDrivingForce/Fuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypesOfDrivingForce/MuscularForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypesOfDrivingForce/Steam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Drivable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Drivable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/TypesOfEnvirnomentOfMovement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/TypesOfEnvirnomentOfMovement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Swimmable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Swimmable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/TypesOfEnvirnomentOfMovement.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662033432977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added types of privacy.">
+      <created>1662116750124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662116750124</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added types of envirnoment of movement." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added types of envirnoment of movement." />
+    <MESSAGE value="Added types of privacy." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added types of privacy." />
   </component>
 </project>

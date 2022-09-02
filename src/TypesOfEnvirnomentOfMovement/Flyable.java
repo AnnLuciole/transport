@@ -1,8 +1,7 @@
 package TypesOfEnvirnomentOfMovement;
 
-public interface Flyable extends TypesOfEnvirnomentOfMovement {
+public interface Flyable {
 
-    @Override
     default void getTypeOfEnvirnomentOfMovement() {
         System.out.println("Транспорт передвигается по воздуху.");
     }

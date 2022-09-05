@@ -1,4 +1,4 @@
-package TypesOfTransport;
+package TypesOfTransport.LandTransport;
 
 public class LandTransport {
 

@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ce3bdb-005d-4810-b207-c7fa2c294734" name="Changes" comment="Added types of driving force.">
+    <list default="true" id="d1ce3bdb-005d-4810-b207-c7fa2c294734" name="Changes" comment="Renamed package TypesOfTransport. Each interface in package was changed to class.">
+      <change afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PassengerPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PrivateJet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Drivable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/LandTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfEnvirnomentOfMovement/Swimmable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/WaterTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfPrivacy/TypesOfPrivacy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfPrivacy/TypesOfPrivacy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/AirTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/LandTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/LandTransport/LandTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/WaterTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/WaterTransport/WaterTransport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662118384939</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Renamed package TypesOfTransport. Each interface in package was changed to class.">
+      <created>1662376682967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662376682967</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +101,7 @@
     <MESSAGE value="Added types of envirnoment of movement." />
     <MESSAGE value="Added types of privacy." />
     <MESSAGE value="Added types of driving force." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added types of driving force." />
+    <MESSAGE value="Renamed package TypesOfTransport. Each interface in package was changed to class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed package TypesOfTransport. Each interface in package was changed to class." />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package TypesOfTransport;
+package TypesOfTransport.WaterTransport;
 
 public class WaterTransport {
 

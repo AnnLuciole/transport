@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ce3bdb-005d-4810-b207-c7fa2c294734" name="Changes" comment="Renamed package TypesOfTransport. Each interface in package was changed to class.">
-      <change afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PassengerPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PrivateJet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfPrivacy/TypesOfPrivacy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfPrivacy/TypesOfPrivacy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/AirTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/LandTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/LandTransport/LandTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/WaterTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/WaterTransport/WaterTransport.java" afterDir="false" />
+    <list default="true" id="d1ce3bdb-005d-4810-b207-c7fa2c294734" name="Changes" comment="Added classes of air transport.">
+      <change afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/AirTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/AirTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PassengerPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PrivateJet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypesOfTransport/AirTransport/PrivateJet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662376682967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added classes of air transport.">
+      <created>1662378897860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662378897860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +106,7 @@
     <MESSAGE value="Added types of privacy." />
     <MESSAGE value="Added types of driving force." />
     <MESSAGE value="Renamed package TypesOfTransport. Each interface in package was changed to class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed package TypesOfTransport. Each interface in package was changed to class." />
+    <MESSAGE value="Added classes of air transport." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added classes of air transport." />
   </component>
 </project>

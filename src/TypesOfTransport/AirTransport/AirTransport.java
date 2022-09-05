@@ -1,6 +1,6 @@
 package TypesOfTransport.AirTransport;
 
-public class AirTransport {
+public abstract class AirTransport {
 
     private int countOfPlaces;
 
@@ -15,7 +15,5 @@ public class AirTransport {
         System.out.println("Введено некорректное количество мест.");
     }
 
-    public void getTypeOfEnvirnomentOfMovement() {
-        System.out.println("Транспорт передвигается по воздуху.");
-    }
+    public void buyATicket(){}
 }

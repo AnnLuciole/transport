@@ -1,4 +1,4 @@
-package TypesOfTransport.AirTransport;
+package TypesOfEnvirnomentOfMovement;
 
 public interface Flyable {
 

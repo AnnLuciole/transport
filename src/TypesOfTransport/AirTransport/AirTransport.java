@@ -1,6 +1,9 @@
 package TypesOfTransport.AirTransport;
 
-public abstract class AirTransport {
+import TypesOfEnvirnomentOfMovement.Flyable;
+import TypesOfTransport.Transport;
+
+public abstract class AirTransport extends Transport implements Flyable {
 
     private int countOfPlaces;
 
@@ -15,5 +18,4 @@ public abstract class AirTransport {
         System.out.println("Введено некорректное количество мест.");
     }
 
-    public void buyATicket(){}
 }

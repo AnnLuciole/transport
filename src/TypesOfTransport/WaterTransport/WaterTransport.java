@@ -1,9 +1,9 @@
 package TypesOfTransport.WaterTransport;
 
-public class WaterTransport {
+import TypesOfEnvirnomentOfMovement.Swimmable;
+import TypesOfTransport.Transport;
 
-    public void getTypeOfEnvirnomentOfMovement() {
-        System.out.println("Транспорт передвигается по воде.");
-    }
+public abstract class WaterTransport extends Transport implements Swimmable {
+
 
 }
